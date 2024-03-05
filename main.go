@@ -2,7 +2,7 @@ package main
 
 import(
 	"github.com/glendlatuni/go-gin-post/src/utils"
-	"github.com/username/go-gin-postgresql-backend/src/middlewares"
+	"github.com/glendlatuni/go-gin-post/src/middlewares"
 	"github.com/glendlatuni/go-gin-post/src/models"
 	"github.com/glendlatuni/go-gin-post/src/routes"
 	
