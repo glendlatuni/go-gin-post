@@ -4,7 +4,7 @@ import (
  "net/http"
 
  "github.com/gin-gonic/gin"
-"github.com/username/go-gin-postgresql-backend/src/models"
+ "github.com/glendlatuni/go-gin-post/src/models"
 )
 
 func GetAllStartups(c *gin.Context) {
